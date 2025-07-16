@@ -33,9 +33,9 @@
 
 <!-- [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DLewis-Lian)](https://github.com/Lewis-Lian)-->
 
-<img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=Lewis-Lian&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ## 🧙Introduction
+
+<img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=Lewis-Lian&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 Welcome to meet you here.I hope everyone can make progress together!
 
@@ -43,5 +43,9 @@ Welcome to meet you here.I hope everyone can make progress together!
 - 💻 Work as an information technology technician
 - 📖 Welcome to my [personal knowledge base](https://wiki.l615.com)
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Lewis-Lian#pic_center)
+<div align="center">
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Lewis-Lian)
+
+</div>
 

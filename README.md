@@ -1,6 +1,6 @@
 # Hey, I'm Lewis 👋
 
-![Lewis-Lian](https://img.shields.io/badge/Lewis%20%20Lian-4540D9)
+![Lewis-Lian](https://img.shields.io/badge/Lewis%20%20Lian-4540D9) 
 
 <!-- [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DLewis-Lian)](https://github.com/Lewis-Lian)-->
 
@@ -12,8 +12,13 @@ Welcome to meet you here.I hope everyone can make progress together!
 - 💻 Work as an information technology technician
 - 📖 Welcome to my [personal knowledge base](https://wiki.l615.com)
 
-## -My Langs
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Lewis-Lian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewis-Lian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## contributions
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 

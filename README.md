@@ -17,7 +17,7 @@
 ![Lewis-Lian](https://img.shields.io/badge/Lewis%20%20Lian-4540D9)
 
 <div>
-    <a href="https://wiki.l615.com/"><img src="https://img.shields.io/badge/Website-WIKI-8c36db" /></a>&emsp;&nbsp;
+    <a href="https://docs.l615.com/"><img src="https://img.shields.io/badge/Website-WIKI-8c36db" /></a>&emsp;&nbsp;
     <img src="https://komarev.com/ghpvc/?username=Lewis-Lian&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
 </div>

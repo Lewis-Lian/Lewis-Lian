@@ -3,8 +3,8 @@
 <!-- knock code pictures 敲代码的图片 -->
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wiki.l615.com/assets/coding.CoS4Huwz.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://wiki.l615.com/assets/developer.R5GJLcfC.svg" height="225px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://wiki.l615.com/_next/static/media/coding.6fc24dd2.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://wiki.l615.com/_next/static/media/developer.35dd2195.svg" height="225px" />
     <img src="https://wiki.l615.com/assets/coding.CoS4Huwz.gif" />
   </picture>
 
